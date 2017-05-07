@@ -1,0 +1,8 @@
+<StackLayout class="page">
+    <ListView [items]="questions" class="list-group">
+        <ng-template let-item="item">
+             <Label [text]="item.question"
+                class="list-group-item"></Label>                 
+        </ng-template>
+    </ListView>
+</StackLayout>

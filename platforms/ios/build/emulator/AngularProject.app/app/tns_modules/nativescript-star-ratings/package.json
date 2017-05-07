@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "nativescript-star-ratings",
+        "scope": null,
+        "escapedName": "nativescript-star-ratings",
+        "name": "nativescript-star-ratings",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/admin/Kamesh-Project/native-s-project/AngularProject"
+    ]
+  ],
+  "_from": "nativescript-star-ratings@latest",
+  "_id": "nativescript-star-ratings@0.1.0",
+  "_inCache": true,
+  "_location": "/nativescript-star-ratings",
+  "_nodeVersion": "5.4.1",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/nativescript-star-ratings-0.1.0.tgz_1481925465467_0.507957945112139"
+  },
+  "_npmUser": {
+    "name": "sean-perkins",
+    "email": "sean@meetmaestro.com"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "nativescript-star-ratings",
+    "scope": null,
+    "escapedName": "nativescript-star-ratings",
+    "name": "nativescript-star-ratings",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-star-ratings/-/nativescript-star-ratings-0.1.0.tgz",
+  "_shasum": "e9bec0f0372ce6707d50c8c3adff2682bd9b7711",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-star-ratings",
+  "_where": "/Users/admin/Kamesh-Project/native-s-project/AngularProject",
+  "author": {
+    "name": "Sean Perkins",
+    "email": "sean@meetmaestro.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sean-perkins/nativescript-star-ratings/issues"
+  },
+  "dependencies": {},
+  "description": "NativeScript star ratings UI component plugin.",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^2.3.0",
+    "tns-platform-declarations": "^2.3.0",
+    "typescript": "^2.0.7"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "e9bec0f0372ce6707d50c8c3adff2682bd9b7711",
+    "tarball": "https://registry.npmjs.org/nativescript-star-ratings/-/nativescript-star-ratings-0.1.0.tgz"
+  },
+  "gitHead": "3159bcfb78f0954fd99757bd22f9083854dc29eb",
+  "homepage": "https://github.com/sean-perkins/nativescript-star-ratings",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "iOS"
+  ],
+  "license": "MIT",
+  "main": "star-ratings",
+  "maintainers": [
+    {
+      "name": "sean-perkins",
+      "email": "sean@meetmaestro.com"
+    }
+  ],
+  "name": "nativescript-star-ratings",
+  "nativescript": {
+    "platforms": {
+      "android": "2.3.0",
+      "ios": "2.3.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sean-perkins/nativescript-star-ratings.git"
+  },
+  "scripts": {
+    "build": "tsc",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "demo.ios.device": "npm run preparedemo && cd demo && tns run ios",
+    "postclone": "npm i && node scripts/postclone.js",
+    "preparedemo": "npm run build && cd demo && tns platform remove ios && tns plugin remove nativescript-star-ratings && tns plugin add .. && tns install",
+    "setup": "npm i && cd demo && npm i && cd .. && npm run build && cd demo && tns plugin add .. && cd .."
+  },
+  "typings": "index.d.ts",
+  "version": "0.1.0"
+}

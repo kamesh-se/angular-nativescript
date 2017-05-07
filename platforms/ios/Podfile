@@ -1,0 +1,10 @@
+use_frameworks!
+
+target "AngularProject" do
+# Begin Podfile - /Users/admin/Kamesh-Project/native-s-project/AngularProject/node_modules/nativescript-star-ratings/platforms/ios/Podfile 
+ use_frameworks!
+
+pod 'HCSStarRatingView', '~> 1.4.5' 
+ # End Podfile 
+
+end

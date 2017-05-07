@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    },
+    {
+        "merged": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/res/merged/F0/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/src/main/res/drawable-ldpi/background.png"
+    }
+]

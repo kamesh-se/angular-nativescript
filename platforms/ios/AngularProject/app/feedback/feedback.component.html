@@ -1,0 +1,13 @@
+<ActionBar title="ActionBar Style">
+  <NavigationButton text="Go Back" android.systemIcon="ic_menu_back"></NavigationButton>
+  <ActionItem ios.systemIcon="2" android.systemIcon="ic_menu_edit" ios.position="right"></ActionItem>
+</ActionBar>
+
+<StackLayout class="page">
+    <ListView [items]="questions" class="list-group">
+        <ng-template let-item="item">
+             <Label [text]="item.question"
+                class="list-group-item"></Label>                 
+        </ng-template>
+    </ListView>
+</StackLayout>

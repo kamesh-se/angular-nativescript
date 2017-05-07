@@ -1,0 +1,18 @@
+
+
+<ActionBar title="Feedback">
+  <NavigationButton text="Go Back" android.systemIcon="ic_menu_back"></NavigationButton>
+  <ActionItem ios.systemIcon="2" android.systemIcon="ic_menu_edit" ios.position="right"></ActionItem>
+</ActionBar>
+
+<StackLayout  orientation="horizontal">
+    <ListView class="list-group" [items]="questions"  separatorColor="white">
+            <ng-template let-item="item">
+                <StackLayout class="list-group-item">
+                    <Label class="list-group-item-heading" [text]="item.question"></Label>
+                    <Label class="list-group-item-text" [text]="'Continent: '+item.id"></Label>
+                    <TNSStarRatings:StarRating width="300" height="40" value="1" />
+                </StackLayout>
+            </ng-template>
+        </ListView>
+</StackLayout>

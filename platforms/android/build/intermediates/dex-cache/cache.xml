@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.3.0_27b6757b7eb6bd9d818463498e2f64ce7fa05729.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.3.0_1170e7e1becef3c667b6a634ffd65ea8225cdb02.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_7b34fca18a1f2faaafc0ac9450f82e6cbb2290ed.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.3.0_8ec841caa95087c1f6d426954561b743a505e08d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.3.0_e8eb2ff4a3d2fce5b9a64c357d9bd7c41b0ad61c.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.3.0_9a368982bbb1f7146342f24bf5a28f7bfdedef32.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fbb206f7a119f66ce171d95aae1225a5b209a8b7">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.3.0_01a977d54739136b71286500aea426cb8bd8c830.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.3.0_bf2b2177b28629035a7519aa4be126b3a3ce20a1.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.3.0_27186e6dd34c88cc064f60869ecba18dc1b0d7cf.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/AngularProject/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_fd316a08979b6bf6432ae66a59cc45ceca3e8aff.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="a3e61044038fb54cddf6b8dc79f41d2b57f42caf">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.3.0_89a2eb232b873c305712611882253494aeeab20b.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="9ab787a20aae245b5b3651ae0b9c38459eb37715">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.3.0_2414b624d2c5689d674a940497b662ae0875ab11.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.3.0_b3e7e8421a628745d3361273bfe786b8c2b1510d.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.0/support-annotations-25.3.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.3.0_cc50980c9f45edd7ec465a3940c3b6543f9b98d4.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.3.0_4da11b31c797bdbfaa8d8e4821d08e28afd50fd6.jar" />
+    </item>
+    <item
+        jar="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/exploded-aar/AngularProject/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/admin/Kamesh-Project/native-s-project/AngularProject/platforms/android/build/intermediates/pre-dexed/F0/debug/AngularProject-runtime-unspecified_4b34de6c836db9807d0faafa7b047e398897c4ac.jar" />
+    </item>
+
+</items>
